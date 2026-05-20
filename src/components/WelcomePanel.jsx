@@ -57,7 +57,7 @@ const WelcomePanel = ({ onSelectExample, userApiKey }) => {
     };
 
     return (
-        <div className="flex-1 flex flex-col items-center justify-center p-8 bg-slate-950/20 overflow-y-auto custom-scrollbar">
+        <div className="flex-1 flex flex-col items-center p-6 md:p-8 pb-20 bg-slate-950/20 overflow-y-auto custom-scrollbar w-full">
             <motion.div
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
@@ -120,8 +120,8 @@ const WelcomePanel = ({ onSelectExample, userApiKey }) => {
                                 className="w-full p-4 rounded-2xl bg-slate-900/20 border border-slate-800/40 hover:bg-slate-900/40 hover:border-slate-700/50 transition-all group text-left flex items-center gap-4"
                             >
                                 <div className={`p-3 rounded-xl ${api.color === 'blue' ? 'bg-blue-500/10 text-blue-400' :
-                                        api.color === 'red' ? 'bg-red-500/10 text-red-400' :
-                                            'bg-green-500/10 text-green-400'
+                                    api.color === 'red' ? 'bg-red-500/10 text-red-400' :
+                                        'bg-green-500/10 text-green-400'
                                     }`}>
                                     {api.icon}
                                 </div>

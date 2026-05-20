@@ -1,25 +1,25 @@
-# Neutron API Tester | Universal API Analysis Tool
+﻿# Neutron API Tester | Universal API Analysis Tool
 
 ![Neutron Pro](https://img.shields.io/badge/Status-Production-emerald?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-v3.0.0-blue?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-slate?style=for-the-badge)
 
 **Neutron** is a professional-grade, browser-based API testing environment designed for developers who need instant analysis, deep profiling, and a premium user experience without the bloat of legacy tools.
 
-[**Launch Live App 🚀**](https://neutron-api-tester.netlify.app)
+[**Launch Live App ðŸš€**](https://neutron-api-tester.netlify.app)
 
 ---
 
-## 🌟 Key Features
+## ðŸŒŸ Key Features
 
-- **🛡️ Universal API Profiling**: Automatically detects API versions, server types, and rate limit boundaries.
-- **✨ Professional UI**: Glassmorphism aesthetic with ambient particle backgrounds and fluid animations.
-- **📱 Fully Responsive**: Optimized layouts for Desktop, Tablet, and Mobile devices.
-- **⚡ Real-Time Metrics**: Instant latency tracking, payload size analysis, and status monitoring.
-- **🔐 Advanced Auth**: Support for Bearer Tokens, API Keys, and Basic Auth with secure styling.
-- **🚀 One-Click Examples**: Pre-loaded with Google API configurations for instant onboarding.
+- **ðŸ›¡ï¸ Universal API Profiling**: Automatically detects API versions, server types, and rate limit boundaries.
+- **âœ¨ Professional UI**: Glassmorphism aesthetic with ambient particle backgrounds and fluid animations.
+- **ðŸ“± Fully Responsive**: Optimized layouts for Desktop, Tablet, and Mobile devices.
+- **âš¡ Real-Time Metrics**: Instant latency tracking, payload size analysis, and status monitoring.
+- **ðŸ” Advanced Auth**: Support for Bearer Tokens, API Keys, and Basic Auth with secure styling.
+- **ðŸš€ One-Click Examples**: Pre-loaded with Google API configurations for instant onboarding.
 
 ---
 
-## 🏗️ Architecture
+## ðŸ—ï¸ Architecture
 
 Neutron is built on a modern React + Vite stack, leveraging Tailwind v4 for styling and Framer Motion for interactions.
 
@@ -50,7 +50,7 @@ graph TD
 
 ---
 
-## 📖 User Manual
+## ðŸ“– User Manual
 
 ### 1. The Workspace
 The interface is divided into three main zones:
@@ -77,7 +77,7 @@ Neutron automatically adds "Smart Chips" to the response footer:
 
 ---
 
-## 🛠️ Development Setup
+## ðŸ› ï¸ Development Setup
 
 ```bash
 # Clone the repository
@@ -95,7 +95,7 @@ npm run build
 
 ---
 
-## 🎨 Design System
+## ðŸŽ¨ Design System
 
 Neutron uses a custom design system built on Tailwind CSS.
 
@@ -109,7 +109,7 @@ Neutron uses a custom design system built on Tailwind CSS.
 
 ---
 
-## 🔄 Use Cases
+## ðŸ”„ Use Cases
 
 ### Scenario A: Debugging a Rate Limited API
 > **User Action**: Sends a request to `api.github.com`.
@@ -128,3 +128,17 @@ Neutron uses a custom design system built on Tailwind CSS.
 ---
 
 *(c) 2026 Neutron Dev Team. MIT License.*
+
+
+---
+
+## ðŸ“œ License & Commercial Use Terms
+
+This project is licensed under a **Dual-License Model**:
+- **Individual/Non-Commercial Use**: Granted under the terms of the MIT License. You are free to view, fork, and test the repository for personal research, educational projects, or non-profit use.
+- **Commercial/Professional Use**: Strictly prohibited without formal authorization. To use this codebase, integrate its modules into commercial platforms, or leverage its proprietary elements for corporate deliverables, you must obtain a commercial license.
+
+### âœ‰ï¸ Contact for Licensing & Collaborations:
+For commercial inquiries, licensing agreements, or bespoke system consulting, please reach out via:
+- **Email**: [gajjarswetang@gmail.com](mailto:gajjarswetang@gmail.com)
+- **LinkedIn**: [Swetang Gajjar on LinkedIn](https://www.linkedin.com/in/gajjarswetang/)

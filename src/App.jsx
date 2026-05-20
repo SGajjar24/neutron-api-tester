@@ -134,7 +134,7 @@ function App() {
         <div className="flex-1 flex flex-col lg:flex-row overflow-hidden relative">
 
           {/* Configuration Panel - Top on Mobile, Left on Desktop */}
-          <div className="h-[45%] lg:h-full lg:w-[45%] flex flex-col border-b lg:border-b-0 lg:border-r border-white/5 bg-slate-900/20">
+          <div className="h-[45%] lg:h-full lg:w-[45%] flex flex-col border-b lg:border-b-0 lg:border-r border-white/5 bg-slate-900/20 overflow-hidden relative">
             <RequestBuilder request={request} updateRequest={updateRequest} />
           </div>
 
